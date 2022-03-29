@@ -9,8 +9,8 @@ github.com/klauspost/compress v1.9.8/go.mod h1:RyIbtBH6LamlWaDj8nUwkbUhJ87Yi3uG0
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/ngyugive/goat_kit v1.0.2 h1:M2Dq7R5HZ24uYZlWafJZcrRnJ0P67LlC0y7aVVYmgBk=
-github.com/ngyugive/goat_kit v1.0.2/go.mod h1:lFp7/M/FnkP8hOc+afCszGHs6v9JWsHyZS1MCsJE6+U=
+github.com/ngyugive/goat_kit v1.0.3 h1:IVtD/sBSRJkOYaGqC5JylgMGj4U9rg6OD/zkeoIZqnc=
+github.com/ngyugive/goat_kit v1.0.3/go.mod h1:lFp7/M/FnkP8hOc+afCszGHs6v9JWsHyZS1MCsJE6+U=
 github.com/pierrec/lz4 v2.6.0+incompatible/go.mod h1:pdkljMzZIN41W+lC3N2tnIh5sFi+IEE17M5jbnwPHcY=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
