@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"github.com/Yugive/go-web-framework/framework"
 	"github.com/Yugive/go-web-framework/framework/middleware"
+	_ "github.com/Yugive/goat_kit"
 	"log"
 	"net/http"
 	"os"
