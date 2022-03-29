@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"go-web-framework/framework"
+	"github.com/Yugive/go-web-framework/framework"
 	"log"
 	"time"
 )

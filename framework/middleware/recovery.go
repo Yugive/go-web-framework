@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"go-web-framework/framework"
+	"github.com/Yugive/go-web-framework/framework"
 )
 
 func Recovery() framework.ControllerHandler {
